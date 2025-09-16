@@ -1,11 +1,9 @@
-## Dataset
+Dataset
 This project uses the "Phishing Email Dataset" from Kaggle, which contains over 82,000 emails for training the phishing detection model. Due to GitHub's 100MB file size limit, the full dataset is not included in this repository. You can download it from the following link:
 
-- **Dataset Link**: [Phishing Email Dataset](https://www.kaggle.com/datasets/naserabdullahalam/phishing-email-dataset/discussion/data?sort=hotness)
-- **Instructions**:
+- Dataset Link: [Phishing Email Dataset](https://www.kaggle.com/datasets/naserabdullahalam/phishing-email-dataset/discussion/data?sort=hotness)
+- Instructions:
   1. Sign up or log in to Kaggle.
   2. Download the dataset ZIP file from the link above.
   3. Extract the contents and place the files in the `data/` folder of this repository.
   4. Ensure the file structure matches the project requirements (e.g., `data/risk_register_full.csv` or subfolders as needed).
-
-A sample or processed version of the dataset (e.g., `data/processed_dataset.csv`) is included if generated during preprocessing.
