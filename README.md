@@ -1,7 +1,3 @@
-<img width="776" height="437" alt="Screenshot 2025-09-16 184337" src="https://github.com/user-attachments/assets/44663562-904d-46b9-994b-9d698e0fd330" />
-Project file structure
-
-
 
 # PhishNet-GRC
 🛡️ AI-Integrated GRC Simulation for Cyber Threats (Phishing Use Case)
