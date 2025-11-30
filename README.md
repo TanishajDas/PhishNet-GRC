@@ -1,8 +1,8 @@
 
 # PhishNet-GRC
-🛡️ AI-Integrated GRC Simulation for Cyber Threats (Phishing Use Case)
+AI-Integrated GRC Simulation for Cyber Threats (Phishing Use Case)
 
-## 📌 Problem Statement
+## Implementation
 Phishing remains the leading cause of enterprise security breaches in 2025, responsible for over **90% of successful incidents**.  
 Traditional GRC (Governance, Risk, Compliance) workflows often rely on manual threat detection and reporting, which leads to:
 - Delayed response times
@@ -13,7 +13,7 @@ This project shows how **AI can enhance GRC** by predicting phishing emails, sco
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Simulate **enterprise phishing threats** with realistic datasets.  
 - Build an **AI/ML model** to detect phishing emails.  
 - Automate **risk scoring** (likelihood × impact).  
@@ -22,7 +22,7 @@ This project shows how **AI can enhance GRC** by predicting phishing emails, sco
 
 ---
 
-## 🏗️ Project Structure
+## Project Structure
 
 <img width="776" height="437" alt="Screenshot 2025-09-16 184337" src="https://github.com/user-attachments/assets/a93976e5-b5df-44f4-a9ee-3daa1f53d845" />
 
@@ -97,15 +97,15 @@ GV.RM – Risk management strategy updates
 
 Key Features:
 
-  📊 Threats detected 
+  Threats detected 
 
-  🔥 Risk levels (high, medium, low)
+  Risk levels (high, medium, low)
 
-  ✅ Controls triggered (table)
+  Controls triggered (table)
 
-  📁 Risk register export (Excel/PDF) 
+  Risk register export (Excel/PDF) 
 
-## 7. 📂 Deliverables
+## 7. Deliverables
 
 1. risk_register.csv or pdf – Risk entries with likelihood, impact, and mapped controls.
 
